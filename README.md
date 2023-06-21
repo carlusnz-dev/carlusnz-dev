@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlusnz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="carlusnz-dev" /> </p>
 
-- 🔭 Estou trabalhando atualmente em [PII-Project](carlusnz-dev.github.io/pii-project)
+- 🔭 Estou trabalhando atualmente em [ProvaBimestral-IPW](carlusnz-dev.github.io/prova-bi-ipw)
 
 - 🌱 Estudo no **Instituto Federal do Piauí**
 

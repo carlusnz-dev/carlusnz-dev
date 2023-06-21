@@ -7,9 +7,9 @@
 
 - 🌱 Estudo no **Instituto Federal do Piauí**
 
-- 🤝 Ofereço serviços como **Design, sites, estrutura de dados, etc.**
+- 🤝 Ofereço serviços como **design, sites, estrutura de dados, etc.**
 
-- 💬 Habilidades: **tocar violão, piano; programação; desenho; esporte.**
+- 💬 Habilidades: **tocar instrumentos como violão, teclado; programação; desenho; esporte.**
 
 - 📫 Contate-me **carlosantunes.dev@gmail.com**
 

@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlusnz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="carlusnz-dev" /> </p>
 
-- 🔭 Estou trabalhando atualmente em [ProvaBimestral-IPW](https://github.com/carlusnz-dev/verdurao-do-carlao)
+- 🔭 Estou trabalhando atualmente em [Aprendendo C++](https://github.com/carlusnz-dev/aprendendo-cpp)
 
 - 🌱 Estudo no **Instituto Federal do Piauí**
 
-- 🤝 Ofereço serviços como **design, sites, estrutura de dados, etc.**
+- 🤝 Ofereço serviços como **design's, sites, estrutura de dados etc.**
 
-- 💬 Habilidades: **tocar instrumentos como violão, teclado; programação; desenho; esporte.**
+- 💬 Habilidades: **tocar instrumentos como violão, teclado; programação; desenho; esportes.**
 
 - 📫 Contate-me **carlosantunes.dev@gmail.com**
 

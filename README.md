@@ -83,6 +83,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/carlusnz-dev/carlusnz-dev/output/snake.svg" alt="Snake animation" />
-
-###

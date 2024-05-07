@@ -73,7 +73,7 @@
 
 ###
 
-<h3 align="center">- Programação Front-end<br>- Design de logotipos e flyers<br>- Locução<br>- Música<br>- Desenho</h3>
+<h3 align="center">- Programação Full Stack<br>- Design em geral<br>- Motion<br>- Locução<br>- Música<br>- Desenhos</h3>
 
 ###
 

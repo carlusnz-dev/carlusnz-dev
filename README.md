@@ -1,18 +1,13 @@
 # I over here, welcome to my profile!
 
-## Who am I?
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/131898555?v=4"  />
-
 - Name: Carlos Antunes  
 - Education: Technical High School (in progress)  
 - Age: 17  
 - Nationality: Brazilian
 
-## Stats
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlusnz-dev&theme=dark&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlusnz-dev&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=carlusnz-dev&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>

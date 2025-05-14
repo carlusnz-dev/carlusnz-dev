@@ -1,50 +1,48 @@
-# I over here, welcome to my profile!
+# 🧑‍💻 Carlos Antunes
 
-- Name: Carlos Antunes  
-- Education: Technical High School (in progress)  
-- Age: 17  
-- Nationality: Brazilian
+### Apresentações 👐 | About Me 👐
 
-###
+Atualmente, tenho 17 anos, recém-formado no ensino técnico integrado pelo Instituto Federal do Piauí. Hoje, trabalho com desenvolvimento FullStack e aplicativos mobile, utilizando Java, Python, Kotlin, JavaScript, entre outras tecnologias.
+
+I'm 17 years old and recently graduated from the integrated technical high school program at the Federal Institute of Piauí (IFPI). Currently, I work with FullStack development and mobile applications using Java, Python, Kotlin, JavaScript, and more.
+
+### Linguagens e ferramentas que mais uso 🔧 | Main Languages & Tools 🔧
+
+- ☕ **Java** – Principal linguagem backend (Spring Boot)  
+  Main backend language (Spring Boot)
+- 🟣 **Kotlin** – Desenvolvimento de aplicativos mobile (Android)  
+  Mobile app development (Android)
+- 🐍 **Python** – Scripts, automações e IA  
+  Scripts, automation, and AI
+- 🌐 **HTML/CSS & JavaScript** – Front-end de sites e projetos interativos utilizando frameworks mais usados do mercado (NextJS, React Native)  
+  Front-end for websites and interactive projects using top frameworks (NextJS, React Native)
+
+### 🌟 Projetos em destaque | Featured Projects
+
+- 🎓 [Jornal IF](https://github.com/carlusnz-dev/jornal-if) — Portal de notícias estudantil feito com Kotlin + Spring Boot.  
+  Student news portal built with Kotlin + Spring Boot.
+- ⚛️ [TPIIS](https://github.com/carlusnz-dev/tpi-project) — Projeto de uma tabela periódica em tamanho real para uso didático e acessível.  
+  Real-scale periodic table project for educational and accessible use.
+- 🌿 [Curas de Quintal](https://github.com/carlusnz-dev/curas-de-quintal) — Aplicativo educacional sobre plantas medicinais (React).  
+  Educational app about medicinal plants (React).
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlusnz-dev&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=carlusnz-dev&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlusnz-dev&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlusnz-dev&layout=compact&theme=tokyonight)
+
 </div>
 
-## Tools Used
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
-</div>
+### 📫 Contato | Contact
 
-## Skills
-
-<div align="center">
-  <ul>
-     <li>HTML5</li>
-     <li>CSS3</li>
-     <li>JavaScript</li>
-     <li>Kotlin</li>
-     <li>Java</li>
-     <li>React</li>
-     <li>Adobe Photoshop</li>
-     <li>Adobe Illustrator</li>
-</ul>
-</div>
-
-## Social Media
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="30" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
-</div>
+- 🌐 [LinkedIn](https://www.linkedin.com/in/carlusnzdev)
+- [Instagram](https://www.instagram.com/carlusnzdev) - @carlusnzdev
+- 📧 Email: carlosantunes.dev@gmail.com
+- 💻 Portfólio: [https://carlusnz-dev.github.io/portfolio-pessoal](https://carlusnz-dev.github.io/portfolio-pessoal)

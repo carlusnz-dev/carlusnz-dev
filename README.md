@@ -2,9 +2,9 @@
 
 ### Apresentações 👐 | About Me 👐
 
-Atualmente, tenho 17 anos, recém-formado no ensino técnico integrado pelo Instituto Federal do Piauí. Hoje, trabalho com desenvolvimento FullStack e aplicativos mobile, utilizando Java, Python, Kotlin, JavaScript, entre outras tecnologias.
+Atualmente, tenho 18 anos, recém-formado no ensino técnico integrado pelo Instituto Federal do Piauí. Hoje, trabalho com desenvolvimento FullStack e aplicativos mobile, utilizando Java, Python, Kotlin, JavaScript, entre outras tecnologias.
 
-I'm 17 years old and recently graduated from the integrated technical high school program at the Federal Institute of Piauí (IFPI). Currently, I work with FullStack development and mobile applications using Java, Python, Kotlin, JavaScript, and more.
+I'm 18 years old and recently graduated from the integrated technical high school program at the Federal Institute of Piauí (IFPI). Currently, I work with FullStack development and mobile applications using Java, Python, Kotlin, JavaScript, and more.
 
 ### Linguagens e ferramentas que mais uso 🔧 | Main Languages & Tools 🔧
 
